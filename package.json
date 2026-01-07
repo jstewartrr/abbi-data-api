@@ -4,8 +4,7 @@
   "description": "ABBI Data API - Snowflake & ElevenLabs Integration",
   "main": "api/index.js",
   "scripts": {
-    "dev": "vercel dev",
-    "build": "vercel build"
+    "dev": "vercel dev"
   },
   "dependencies": {
     "snowflake-sdk": "^1.9.0"
